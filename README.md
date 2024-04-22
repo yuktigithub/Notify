@@ -8,7 +8,7 @@ We have used python, beautiful soup, flask, html and CSS.
 # If it shows such error while running html file: 
 ## Refused to apply style from <URL> because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled angular
 
-solution: Add <base href="/">  in head before linking all css files
+solution: Add ```<base href="/">``` in head before linking all css files
 
 
  
