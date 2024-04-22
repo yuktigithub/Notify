@@ -1,0 +1,42 @@
+
+body{
+    /* background-color: #ebd372; */
+    background-color: black;
+
+}
+
+.rufus{
+
+    /* */
+    margin-left: 38%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    /* animation-iteration-count: infinite; */
+}
+
+#happy{
+    margin-top: 10%;
+    color: aliceblue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.description{
+    color: #31f923;
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
+    justify-content: center;
+    text-align: center;
+
+}
+.black{
+    /* margin-left: 15px; */
+    color: #ebd372;
+   font-size: 30px;
+}

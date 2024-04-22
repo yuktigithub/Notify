@@ -1,0 +1,38 @@
+body{
+background-color: white;
+}
+
+.logo{
+    background-color:#DAC0A3;
+    text-align: center;
+    align: center;
+    font-size: 80px;
+    margin : 0px;
+}
+.logo p{
+    display: inline;
+}
+
+.mb-3 {
+    padding : 0px 50px 0px 30px;
+}
+
+.mb-3 label{
+    color : #ED786A;
+    font-weight : 500;
+}
+.text-center {
+    display:flex;
+    justify-content : center;
+    margin-bottom:10px;
+
+}
+
+.text-center button{
+    cursor:pointer;
+    border:none;
+}
+
+a:link{
+    text-decoration:none;
+}
